@@ -76,3 +76,14 @@ Users can input soil and climate values and receive instant crop recommendations
 ## ▶️ How to Run the Project Locally
 1. Clone the repository
 2. Install dependencies:
+
+## 👥 Project Team
+This project was developed collaboratively by a team of four members as part of the  
+**C-DAC – AI & Data Science using Python** program.
+
+### Team Members:
+- Member 1: (Your Name) – Machine Learning & Model Development
+- Member 2: (Name) – Data Analysis & Visualization
+- Member 3: (Name) – Web Application (Streamlit) Development
+- Member 4: (Name) – Documentation & Deployment
+
