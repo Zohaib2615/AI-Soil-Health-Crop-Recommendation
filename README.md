@@ -1,4 +1,4 @@
-# 🌱 AI-Based Soil Health Analysis & Crop Recommendation System
+# 🌱Soil Health Analysis & Crop Recommendation System
 
 ## 📌 Project Overview
 This project is an AI-based web application that analyzes soil health and climate parameters to recommend the most suitable crop.  
